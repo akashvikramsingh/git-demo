@@ -1,5 +1,9 @@
 AKASH VIKRAM IS WORKING AT EPAM
 I AM FROM LUCKNOW
 I am currently in Hyderabad
+<<<<<<< HEAD
 hello everyone
 ICC world cup was won by India
+=======
+hello
+>>>>>>> 78bb7dfd862fe6f7b3d50ad816fe9f633c1fb034
